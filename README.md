@@ -20,5 +20,5 @@ segue o link https://www.matheusfrancisco.com.br/python/vamos-aprender-python/ .
 duckduckgo.com.br
 
 Irei roubar algumas explicações dos livros:
-* Fluente python
-* Aprendendo python
+* https://www.amazon.com.br/Python-Fluente-Programação-Concisa-Eficaz/dp/857522462X/ref=sr_1_1?__mk_pt_BR=ÅMÅŽÕÑ&keywords=fluente+python&qid=1574622937&sr=8-1
+* https://www.amazon.com.br/Aprendendo-Python-David-Ascher/dp/857780013X/ref=sr_1_2?__mk_pt_BR=ÅMÅŽÕÑ&keywords=aprendendo+python&qid=1574622966&sr=8-2
