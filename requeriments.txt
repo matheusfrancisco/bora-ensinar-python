@@ -1,0 +1,5 @@
+jupyterlab==1.2.3
+jupyterlab-server==1.0.6
+numpy==1.17.4
+pandas==0.25.3
+requests==2.22.0
